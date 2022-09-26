@@ -20,7 +20,7 @@
 </table>
 
 # Bases de Datos
-??????????????????????????????Modifique el readme para probar el branch home HC.
+
 ### Necesidad de una base datos
 
 En algún momento nuestra aplicación va a necesitar algún tipo de _persistencia_ de datos, es decir que lo datos queden guardados en el disco, y no importa si reinicio el servidor, o modifico mi aplicación u otras cosas que puedan ocurrir.
@@ -47,4 +47,4 @@ Las ventajas de usar una base de datos SQL son:
 
 ## Homework
 
-Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/FT-M4/tree/master/01-dbms/homework)
+Completa la tarea descrita 
